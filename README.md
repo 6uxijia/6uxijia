@@ -54,8 +54,4 @@ Here are some notes I took while pursuing my degree at China University of Petro
 </div>
 
 
-<div align="center">
-  <img src="https://github-contrib-stats.vercel.app/zhuozhiyongde/created.svg" alt="Repos I created">
-</div>
-
 Hit me up anytime and let's explore new ideas together! 😺✨
