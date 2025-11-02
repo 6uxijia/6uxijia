@@ -42,7 +42,7 @@ You can checkout my blog [here](https://6ucia.github.io/).
 Here are some notes I took while pursuing my degree at China University of Petroleum / College of Petroleum Engineering, hoping they can help those who come after me.
 
 -   [Python_MachineLearning_Experiments](https://github.com/6uxijia/Python_MachineLearning_Experiments)
--   [知识共享](https://github.com/6uxijia/Knowledge_share)
+-   [知识共享](https://github.com/6uxijia/Knowledge_sharing)
 -   [石油工程AI应用](https://github.com/6uxijia/Petroleum_Engineering_AI)
 -   [石油工程ESG](https://github.com/6uxijia/Petroleum_Engineering_ESG)
 
